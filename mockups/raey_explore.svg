@@ -1,0 +1,20 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#050a1c"/><stop offset="100%" stop-color="#143a78"/>
+</linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<rect x="40" y="60" width="1000" height="180" rx="40" fill="#0b1d46" stroke="#50ddff" stroke-width="4" filter="url(#glow)"/>
+<text x="80" y="168" font-size="68" fill="#d2f8ff" font-family="Verdana" font-weight="700">ራዕይ (Ra'ey)</text>
+<rect x="60" y="320" width="960" height="900" rx="42" fill="#09112f" stroke="#6ff7ff" stroke-width="3"/>
+<text x="110" y="430" font-size="64" fill="#9dfff0" font-family="Verdana" font-weight="700">Explore</text>
+<foreignObject x="110" y="500" width="840" height="180"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Verdana;color:#e7f4ff;font-size:36px;line-height:1.35">Glowing medicine catalog, nearby providers map, and featured medhanit cards.</div></foreignObject>
+<rect x="110" y="760" width="860" height="120" rx="24" fill="#1a2957" stroke="#63bcff"/>
+<rect x="110" y="930" width="860" height="120" rx="24" fill="#1a2957" stroke="#63bcff"/>
+<rect x="110" y="1100" width="860" height="120" rx="24" fill="#1a2957" stroke="#63bcff"/>
+<text x="80" y="1630" font-size="30" fill="#c4e8ff" font-family="Verdana">Developer: Mikiyas Teshome</text>
+<rect x="35" y="1710" width="1010" height="175" rx="46" fill="#081224" stroke="#50c5ff" stroke-width="3"/>
+<circle cx="130" cy="1768" r="24" fill="none" stroke="#78ffe5" stroke-width="4" /><text x="72" y="1840" font-size="30" fill="#78ffe5" font-family="Verdana">Explore</text><text x="322" y="1840" font-size="30" fill="#aab6cf" font-family="Verdana">Doctors</text><text x="572" y="1840" font-size="30" fill="#aab6cf" font-family="Verdana">AI</text><text x="822" y="1840" font-size="30" fill="#aab6cf" font-family="Verdana">You</text>
+</svg>
