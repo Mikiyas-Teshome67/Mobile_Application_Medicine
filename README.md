@@ -39,7 +39,8 @@ lib/
 4. **Medicine cards** opening payment/provider details.
 5. **Provider communication channels** (email, phone, GitHub, Telegram, YouTube).
 6. **Nearby providers entry card** ready for maps + location permissions.
-
+VIDEO1: https://drive.google.com/file/d/1ViQrqwKNyIA24t1b1ju27Zwf_r-sqae_/view?usp=drive_link
+VIDEO2: https://drive.google.com/file/d/1fAHc-ganR398z289oPv3Ec-oqD-sTtdO/view?usp=drive_link 
 ## Required integrations you should connect next
 
 - Firebase setup for Google/Facebook authentication.
